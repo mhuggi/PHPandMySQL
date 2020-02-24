@@ -4,6 +4,9 @@
             <a href="./"><img src="logo.png" id="logo" alt="Emil site" /></a>
             <nav>
     <ul>
+        <li><a href="./index.php">Hem</a></li>
+        <li><a href="./market.php">Loppis</a></li>
+        <li><a href="./admin.php">Admin</a></li>
         <li><a href="./blog.php">Blogg</a></li>
         <li><a href="./ajax.php">Ajax</a></li>
         <li><a href="./reddit.php">Reddit</a></li>
